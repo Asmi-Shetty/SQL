@@ -8,6 +8,9 @@ SELECT
     END
 FROM TRIANGLES;
 
+/*
+use --- CASE AND END 
+USE --- Single quote commas for strings
 
 
 /*
