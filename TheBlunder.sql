@@ -22,4 +22,4 @@ Samantha was tasked with calculating the average monthly salaries for all employ
   removed), and the actual average salary.
 
 Write a query calculating the amount of error
- (i.e.:  actual - miscalculated average monthly salaries), and round it up to the next integer.
+ (i.e --  actual - miscalculated average monthly salaries), and round it up to the next integer.
