@@ -9,5 +9,5 @@ Order your output by the last three characters of
 
 each name. If two or more students both have names
  ending in the same last three characters
-  (that is Bobby, Robby, etc.), secondary sort them by 
+  (that is Bobby, Robby, etc.) secondary sort them by 
   ascending ID.
