@@ -3,5 +3,6 @@ WHERE DISTRICT = 'CALIFORNIA'
 
 
 /*
-Query the total population of all cities in CITY where District is California.
+Query the total population of all cities in 
+CITY where District is California
 */
